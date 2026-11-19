@@ -1,0 +1,12 @@
+{
+  "https://amienazylla.com/wp-sitemap.xml": [
+    "https://amienazylla.com/wp-sitemap-posts-course-1.xml",
+    "https://amienazylla.com/wp-sitemap-posts-page-1.xml",
+    "https://amienazylla.com/wp-sitemap-posts-post-1.xml",
+    "https://amienazylla.com/wp-sitemap-posts-product-1.xml",
+    "https://amienazylla.com/wp-sitemap-taxonomies-category-1.xml",
+    "https://amienazylla.com/wp-sitemap-taxonomies-post_tag-1.xml",
+    "https://amienazylla.com/wp-sitemap-taxonomies-product_cat-1.xml",
+    "https://amienazylla.com/wp-sitemap-users-1.xml"
+  ]
+}
